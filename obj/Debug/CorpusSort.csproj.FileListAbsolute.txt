@@ -1,0 +1,6 @@
+C:\Users\Admin\Desktop\CorpusSort\CorpusSort\bin\Debug\CorpusSort.exe.config
+C:\Users\Admin\Desktop\CorpusSort\CorpusSort\bin\Debug\CorpusSort.exe
+C:\Users\Admin\Desktop\CorpusSort\CorpusSort\bin\Debug\CorpusSort.pdb
+C:\Users\Admin\Desktop\CorpusSort\CorpusSort\obj\Debug\CorpusSort.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\CorpusSort\CorpusSort\obj\Debug\CorpusSort.exe
+C:\Users\Admin\Desktop\CorpusSort\CorpusSort\obj\Debug\CorpusSort.pdb
